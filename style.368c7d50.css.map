@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,kCACE,oBAAqB,CACrB,eACF,CAEA,UACE,kBACF","file":"style.368c7d50.css","sourceRoot":"..\\src","sourcesContent":[".fieldset .label:nth-of-type(n+2) {\n  display: inline-block;\n  margin-top: 10px;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n}\n"]}
